@@ -1,3 +1,6 @@
+#Δήμητρα Μοσχολιού
+#23391057
+#4ο εξαμηνο
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
